@@ -8,3 +8,5 @@ Features Of BlindHelper Project
 4. Tracking using android app
 5. Sensing Band
 
+
+# Newspaper Reading
