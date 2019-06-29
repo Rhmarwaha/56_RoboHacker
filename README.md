@@ -25,3 +25,7 @@ In Currency Note Detection , we train the model with 7 classes as 10 , 20 ,50 , 
 # Tracking using android app
 
 In this we use gps module with raspberry pi and the gps module takes the value of the latitude and longitude with date and time with it and upload to the fireabse realtimely and android app get the data from realtime database firebase and  shows in the google map activity can be used by  blind person's wellfisher to track the blind person 
+
+# Sensing Band
+
+The sensing band is basically a band that blind person can wear on his/her wrist. In it , we use  three ultrasonic as two ultra sonic for left and right and one is for up and  down which is mounted on server motor. This band tell the blind person where is open path by two servo motors on his left and right side of the sensing band.  
