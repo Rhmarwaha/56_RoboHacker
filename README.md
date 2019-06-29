@@ -10,3 +10,5 @@ Features Of BlindHelper Project
 
 
 # Newspaper Reading
+
+In Newspaper Reading , Basically  we capture the image using rasberry pi camera  
