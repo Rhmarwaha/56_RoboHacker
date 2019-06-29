@@ -20,4 +20,7 @@ In face recognition , Python code will take the image of the person in front of 
 
 # Currency Note Detection
 
-In Currency Note Detection , we train the model with 7 classes as 10 , 20 ,50 , 100 , 200 , 500 , 2000. 
+In Currency Note Detection , we train the model with 7 classes as 10 , 20 ,50 , 100 , 200 , 500 , 2000. In each class we have approx 300 images and we train the model with this dataset and this gives the accuracy of about 95%.
+
+# Tracking using android app
+
