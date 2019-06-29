@@ -11,7 +11,7 @@ Features Of BlindHelper Project
 
 # Newspaper Reading
 
-In Newspaper Reading , Basically  we capture the image using rasberry pi camera  and the python code in pi extracts the words from the image and then the blind people can hear the words using speaker.
+In Newspaper Reading , Basically  we capture the image using raspberry pi camera  and the python code in pi extracts the words from the image and then the blind people can hear the words using speaker.
 
 
 # Face Recognition
@@ -24,3 +24,4 @@ In Currency Note Detection , we train the model with 7 classes as 10 , 20 ,50 , 
 
 # Tracking using android app
 
+In this we use gps module with raspberry pi and the gps module takes the value of the latitude and longitude with date and time with it and upload to the fireabse realtimely and android app get the data from realtime database firebase and  shows in the google map activity can be used by  blind person's wellfisher to track the blind person 
