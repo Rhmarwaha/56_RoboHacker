@@ -11,4 +11,4 @@ Features Of BlindHelper Project
 
 # Newspaper Reading
 
-In Newspaper Reading , Basically  we capture the image using rasberry pi camera  and the python code in pi extracts the words from the image and then
+In Newspaper Reading , Basically  we capture the image using rasberry pi camera  and the python code in pi extracts the words from the image and then the blind people can hear the words using speaker.
